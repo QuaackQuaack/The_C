@@ -1,7 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>  //includes information about standard library
 
-int main()
+main() // define a function named main that recives no argument values
 {
-    printf("hello world here is all the magic begins now");
-    return 0;
+    printf("hello world \n"); // main call library function printf to print this sequence of characters
 }

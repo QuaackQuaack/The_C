@@ -1,0 +1,3 @@
+Static Definiton = It means process of allocating memory for varibale before the program starts running.
+Stack discipline = It is a region of memory that si used to store ffunction call information, local variable and othr data. When function is called, memory is location on stack for its local variable.
+Division Truncates = so when we perform division with integer in programmming the result in also integer, so mostly the float part( fraction part) get discarded. 

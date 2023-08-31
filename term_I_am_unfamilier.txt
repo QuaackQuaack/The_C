@@ -1,3 +1,9 @@
-Static Definiton = It means process of allocating memory for varibale before the program starts running.
-Stack discipline = It is a region of memory that si used to store ffunction call information, local variable and othr data. When function is called, memory is location on stack for its local variable.
-Division Truncates = so when we perform division with integer in programmming the result in also integer, so mostly the float part( fraction part) get discarded. 
+Static Definition = It means process of allocating memory for variable before the program starts running.
+
+Stack discipline = It is a region of memory that is used to store function call information, local variable and other data. When function is called, memory is location on stack for its local variable.
+
+Division Truncates = so when we perform division with integer in programming the result in also integer, so mostly the float part (fraction part) gets discarded. 
+
+Symbolic Constant: It is a way of dealing with symbolic constant by defining them with particular string of characters. For example 
+#define name replacement text. NOTE, there is no semicolon at the end of symbolic constant i.e define. 
+
